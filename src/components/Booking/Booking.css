@@ -1,0 +1,19 @@
+/* .textall{
+    font-weight: 900;
+
+} */
+
+.date-border-style{
+    border: none;
+    outline: none;
+}
+.date-border-style:focus{
+    border: none;
+    outline: none;
+}
+.name-style{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 6px 20px;
+}
+

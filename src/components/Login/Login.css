@@ -1,0 +1,29 @@
+.login{
+    background-image: url();
+}
+.login-form{
+    
+    background-color: #fff;
+}
+.button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    overflow: hidden;
+    outline:none;
+}
+.button:focus{
+    outline: 0;
+}
+
+.center{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.fb-google-login{
+    border: 2px solid rgb(150, 148, 148);
+    border-radius: 15px;
+}

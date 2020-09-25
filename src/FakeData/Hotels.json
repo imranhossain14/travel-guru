@@ -1,0 +1,147 @@
+[
+    {
+        "id": 0,
+        "place":"Sundarban",
+        "title": "Hotel Castle Salam",
+        "feature": "6 guests , 3 bedrooms , 2 beds , 3 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 5.0,
+        "price": 64,
+        "image": "https://i.postimg.cc/KK8yPxBT/10.jpg"
+    },
+    {
+        "id": 1,
+        "place":"Sundarban",
+        "title": "Hotel Suite Palace",
+        "feature": "6 guests , 3 bedrooms , 2 beds , 3 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 3.5,
+        "price": 67,
+        "image": "https://i.postimg.cc/QB8jfpGH/1.jpg"
+    },
+    {
+        "id": 2,
+        "place":"Sundarban",
+        "title": "Hotel Ransomware",
+        "feature": "6 guests , 3 bedrooms , 2 beds , 3 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 2.9,
+        "price": 87,
+        "image": "https://i.postimg.cc/F70mmPhY/12.jpg"
+    },
+
+    {
+        "id": 3,
+        "place":"Sreemangal",
+        "title": "Hotel Quality Home",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.8,
+        "price": 77,
+        "image": "https://i.postimg.cc/CBWTp8tC/16.jpg"
+    },
+
+    {
+        "id": 4,
+        "place":"Cox's Bazar",
+        "title": "Sea Breeze Resort",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.7,
+        "price": 27,
+        "image": "https://i.postimg.cc/Fk3trR5M/19.jpg"
+    },
+    {
+        "id": 5,
+        "place":"Cox's Bazar",
+        "title": "Albatross Resort",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.4,
+        "price": 57,
+        "image": "https://i.postimg.cc/BjqW34hz/20.jpg"
+    },
+    {
+        "id": 6,
+        "place":"Cox's Bazar",
+        "title": "Rain View Resort",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.8,
+        "price": 31,
+        "image": "https://i.postimg.cc/PPbG0PMZ/21.jpg"
+    },
+
+    {
+        "id": 7,
+        "place":"Cox's Bazar",
+        "title": "Rain View Resort",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.7,
+        "price": 58,
+        "image": "https://i.postimg.cc/Hr3qsRRk/22.jpg"
+    },
+
+    {
+        "id": 8,
+        "place":"Cox's Bazar",
+        "title": "Hotel Elaf International",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.9,
+        "price": 98,
+        "image": "https://i.postimg.cc/CZ1WZJpH/23.jpg"
+    },
+
+    {
+        "id": 9,
+        "place":"Cox's Bazar",
+        "title": "Hotel Regal Palace",
+        "feature": "8 guests , 4 bedrooms , 4 beds , 4 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.7,
+        "price": 71,
+        "image": "hhttps://i.postimg.cc/HJhFb5pG/24.jpg"
+    },
+    {
+        "id": 10,
+        "place":"Cox's Bazar",
+        "title": "Exotica Sampan",
+        "feature": "8 guests , 4 bedrooms , 4 beds , 4 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.9,
+        "price": 54,
+        "image": "https://i.postimg.cc/cgt2hHHv/25.jpg"
+    },
+    {
+        "id": 11,
+        "place":"Cox's Bazar",
+        "title": "AR Longe & Pool (r&r + b&b)",
+        "feature": "4 guests , 2 bedrooms , 2 beds , 2 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.9,
+        "price": 79,
+        "image": "https://i.postimg.cc/8J3Dk9F6/3.jpg"
+    },
+    {
+        "id": 12,
+        "place":"Sreemangal",
+        "title": "Sunset Serenity",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.1,
+        "price": 66,
+        "image": "img]https://i.postimg.cc/D83kCq1n/17.jpg"
+    },
+    {
+        "id": 13,
+        "place":"Sreemangal",
+        "title": "Hotel Pink Shore",
+        "feature": "2 guests , 1 bedrooms , 1 beds , 1 baths",
+        "details": "With all modern features. Free private parking available at the hotel",
+        "rating": 4.2,
+        "price": 55,
+        "image": "https://i.postimg.cc/Hjy14Sc6/18.jpg"
+    }
+]
